@@ -81,7 +81,7 @@ P.S. 聊完之后，感觉自己有三个方面需要提升：1.深度学习；2
 7. Logistic Regression如何选择Feature,P-value计算采用L1还是L2及理由
 8. 为什么使用Word2Vec
 9. Feature Selector从哪几个角度考虑的
-10. 如何衡量一个模型的效果
+10. 如何衡量一个模型的效果  
 11.样本分布不均衡的解决办法，介绍EasyEnsemble
 
 
